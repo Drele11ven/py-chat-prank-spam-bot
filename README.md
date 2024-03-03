@@ -29,7 +29,7 @@ DISCLAIMER: The contents of this repository were written only for educational pu
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Contact
-Mehdi (Dr.ele11ven) ArmaniFar - your@email.com
+Mehdi (Dr.ele11ven) ArmaniFar - https://tel.me/Dr_ele11ven
 
 Project Link: https://github.com/Drele11ven/py-chat-prank-spam-bot
 
